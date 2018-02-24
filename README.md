@@ -1,2 +1,2 @@
 # sectorswap
-A game about fighting and treasure
+A game about fighting and treasures and stuff.
